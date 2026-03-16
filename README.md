@@ -1,9 +1,5 @@
 # Разработка пользовательского интерфейса (GUI) для языкового процессора
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![PyQt6](https://img.shields.io/badge/PyQt-6-green.svg)](https://www.riverbankcomputing.com/software/pyqt/)
-[![Status](https://img.shields.io/badge/status-учебная%20работа-orange)]()
-
 **Учебная работа**  
 **Тема:** Разработка приложения – текстовый редактор с графическим интерфейсом пользователя (GUI)  
 **Язык реализации:** Python + PyQt6  
